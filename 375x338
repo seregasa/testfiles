@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="377px" height="340px" viewBox="0 0 377 340" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>test_image</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="test_image" transform="translate(1.000000, 1.000000)">
+            <rect id="Rectangle-Copy-7" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="375" height="338"></rect>
+            <g id="Group-2" transform="translate(0.000000, 318.000000)">
+                <rect id="Rectangle" fill="#E33E3E" x="0" y="0" width="20" height="20"></rect>
+                <path id="Path" d="M19.774986,0.22501403 L17.1233355,7.47285854 L15.002,5.351 L5.351,15.002 L7.47285854,17.1233355 L0.22501403,19.774986 L2.87666446,12.5271415 L4.998,14.649 L14.649,4.998 L12.5271415,2.87666446 L19.774986,0.22501403 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path id="Path" d="M19.774986,0.22501403 L17.1233355,7.47285854 L15.002,5.351 L5.351,15.002 L7.47285854,17.1233355 L0.22501403,19.774986 L2.87666446,12.5271415 L4.998,14.649 L14.649,4.998 L12.5271415,2.87666446 L19.774986,0.22501403 Z" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) " fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group-2">
+                <rect id="Rectangle" fill="#E33E3E" x="0" y="0" width="20" height="20"></rect>
+                <path id="Path" d="M19.774986,0.22501403 L17.1233355,7.47285854 L15.002,5.351 L5.351,15.002 L7.47285854,17.1233355 L0.22501403,19.774986 L2.87666446,12.5271415 L4.998,14.649 L14.649,4.998 L12.5271415,2.87666446 L19.774986,0.22501403 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path id="Path" d="M19.774986,0.22501403 L17.1233355,7.47285854 L15.002,5.351 L5.351,15.002 L7.47285854,17.1233355 L0.22501403,19.774986 L2.87666446,12.5271415 L4.998,14.649 L14.649,4.998 L12.5271415,2.87666446 L19.774986,0.22501403 Z" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) " fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group-2" transform="translate(355.000000, 0.000000)">
+                <rect id="Rectangle" fill="#E33E3E" x="0" y="0" width="20" height="20"></rect>
+                <path id="Path" d="M19.774986,0.22501403 L17.1233355,7.47285854 L15.002,5.351 L5.351,15.002 L7.47285854,17.1233355 L0.22501403,19.774986 L2.87666446,12.5271415 L4.998,14.649 L14.649,4.998 L12.5271415,2.87666446 L19.774986,0.22501403 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path id="Path" d="M19.774986,0.22501403 L17.1233355,7.47285854 L15.002,5.351 L5.351,15.002 L7.47285854,17.1233355 L0.22501403,19.774986 L2.87666446,12.5271415 L4.998,14.649 L14.649,4.998 L12.5271415,2.87666446 L19.774986,0.22501403 Z" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) " fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group-2" transform="translate(355.000000, 318.000000)">
+                <rect id="Rectangle" fill="#E33E3E" x="0" y="0" width="20" height="20"></rect>
+                <path id="Path" d="M19.774986,0.22501403 L17.1233355,7.47285854 L15.002,5.351 L5.351,15.002 L7.47285854,17.1233355 L0.22501403,19.774986 L2.87666446,12.5271415 L4.998,14.649 L14.649,4.998 L12.5271415,2.87666446 L19.774986,0.22501403 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path id="Path" d="M19.774986,0.22501403 L17.1233355,7.47285854 L15.002,5.351 L5.351,15.002 L7.47285854,17.1233355 L0.22501403,19.774986 L2.87666446,12.5271415 L4.998,14.649 L14.649,4.998 L12.5271415,2.87666446 L19.774986,0.22501403 Z" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) " fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
