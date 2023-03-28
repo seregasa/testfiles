@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="338px" viewBox="0 0 375 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,2.38892783e-14 L32,6 L8.829,6 L51.3284271,48.5 L48.5,51.3284271 L6,8.829 L6,32 L-2.0250468e-13,32 L-2.0250468e-13,2.48689958e-14 L32,2.38892783e-14 Z" id="Combined-Shape" fill="#D31145"></path>
+        <path d="M32,287 L32,293 L8.829,293 L51.3284271,335.5 L48.5,338.328427 L6,295.829 L6,319 L-2.0250468e-13,319 L-2.0250468e-13,287 L32,287 Z" id="Combined-Shape-Copy-2" fill="#D31145" transform="translate(25.664214, 312.664214) scale(1, -1) translate(-25.664214, -312.664214) "></path>
+        <path d="M356,2.38892783e-14 L356,6 L332.829,6 L375.328427,48.5 L372.5,51.3284271 L330,8.829 L330,32 L324,32 L324,2.48689958e-14 L356,2.38892783e-14 Z" id="Combined-Shape-Copy" fill="#D31145" transform="translate(349.664214, 25.664214) scale(-1, 1) translate(-349.664214, -25.664214) "></path>
+        <path d="M356,287 L356,293 L332.829,293 L375.328427,335.5 L372.5,338.328427 L330,295.829 L330,319 L324,319 L324,287 L356,287 Z" id="Combined-Shape-Copy-3" fill="#D31145" transform="translate(349.664214, 312.664214) scale(-1, -1) translate(-349.664214, -312.664214) "></path>
+        <text id="375x338" font-family="Gotham-Medium, Gotham" font-size="18" font-weight="400" fill="#D31145">
+            <tspan x="149.75" y="74">375x338</tspan>
+        </text>
+        <circle id="Oval" fill="#055D67" cx="238" cy="230" r="121"></circle>
+        <path d="M149,84.618034 L282.511184,181.619587 L231.514449,338.571396 L66.4855507,338.571396 L15.4888165,181.619587 L149,84.618034 Z" id="Polygon" stroke="#979797" fill="#D8D8D8" opacity="0.200000003"></path>
+        <rect id="Rectangle" fill="#C66612" x="68" y="225" width="114" height="114"></rect>
+    </g>
+</svg>
